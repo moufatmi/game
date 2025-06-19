@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
           <p className="text-gray-400 flex items-center justify-center space-x-1">
             <span>Made with</span>
             <Heart className="w-4 h-4 text-red-500 fill-current" />
-            <span>for gamers worldwide</span>
+            <span>By Moussab Fatmi</span>
           </p>
           <p className="text-gray-500 text-sm mt-2">
             © 2025 GameHub. All rights reserved.
